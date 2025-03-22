@@ -1,6 +1,1 @@
-# Hello World
-## Hai
-### World
-#### Keerthana
-##### Github
-###### Markdown
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
